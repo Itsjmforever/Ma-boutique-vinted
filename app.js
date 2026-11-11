@@ -2,7 +2,7 @@
    CONFIGURATION – modifiez ces valeurs pour personnaliser le site
    ============================================================ */
 const CONFIG = {
-  storeName: "Ma Boutique",
+  storeName: "Prestige and Beauty",
   whatsappNumber: "2290197578968", // format international, sans + ni espaces (ex : 22997000000)
   currency: "FCFA",
 };
